@@ -1,3 +1,4 @@
+//Enter and exit fullscreen
 const openBTN = document.querySelector("#abrir-pantalla-completa")
 const exitBTN = document.querySelector("#salir-pantalla-completa")
 
